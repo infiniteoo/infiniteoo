@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Troy.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -7,8 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Certified Full-Stack Web Developer by the University of Minnesota.
 - 💼 &nbsp; Production Manager & Consultant for over twenty years in the radio industry.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Architecture, and Systems Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -50,7 +47,7 @@
 
 <p align="center">
 <a href="https://infiniteoo.github.io/react_portfolio_2021"><img alt="Website" src="https://infiniteoo.github.io/react_portfolio_2021-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/t-wayne-doorman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-t-wayne-doorman-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/t-wayne-doorman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/doorman_t"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-doorman_t-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:troydorman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-troydorman@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
