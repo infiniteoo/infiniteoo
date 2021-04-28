@@ -55,4 +55,4 @@
 <a href="mailto:troydorman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-troydorman@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Troy Dorman](https://github.com/infiniteoo)
