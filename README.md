@@ -46,7 +46,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://infiniteoo.github.io/react_portfolio_2021/"><img alt="Website" src="https://img.shields.io/badge/Website-infiniteoo.github.io/react_portfolio_2021-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/t-wayne-doorman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/doorman_t"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-doorman_t-blue?style=flat-square&logo=twitter"></a>
