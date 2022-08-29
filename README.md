@@ -44,7 +44,6 @@
 <p align="center">
 <a href="https://troydorman.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-troydorman.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/t-wayne-doorman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/doorman_t"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-doorman_t-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:troydorman@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-troydorman@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
