@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Four years of active implementation experience with Next.js, React, React-Native, PostgreSQL, Supabase, AWS + more!
+- 🤔 &nbsp; Four years of active implementation experience with Angular, Python, Next/React, AWS, OpenAI, PostgreSQL/NoSQL + more!
 - 🎓 &nbsp; Certified Full-Stack Web Developer by the University of Minnesota.
 - 💼 &nbsp; Production Director & Consultant for over twenty years in the radio industry.
 - 🌱 &nbsp; Focused on logistics, warehouse and production industry related applications.
@@ -46,7 +46,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=infiniteoo&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniteoo&theme=buefy&layout=compact" />
 </a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
