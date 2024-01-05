@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://www.troydorman.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.troydorman.com-gray?style=flat-square&logo=google-chrome"></a>
-<a href="[https://www.linkedin.com/in/t-wayne-dormann/](https://www.linkedin.com/in/troy-dorman/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/troy-dorman/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:troydorman@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-troydorman@outlook.com-gray?style=flat-square&logo=gmail"></a>
 </p>
 
